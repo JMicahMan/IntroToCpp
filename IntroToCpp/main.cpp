@@ -7,9 +7,9 @@ int main()
 	std::cout << "Strawberry" << std::endl;
 	std::cout << "Orange" << std::endl;
 	std::cout << std::endl;
-
+	
 	//thats not 10
-
+	//oh well
 	std::cout << "1. Son of a Star\n";
 	std::cout << "2. Imperial Eagle\n";
 	std::cout << "3. Price of a Mile\n";
