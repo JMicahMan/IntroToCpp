@@ -8,6 +8,8 @@ int main()
 	std::cout << "Orange" << std::endl;
 	std::cout << std::endl;
 
+	//thats not 10
+
 	std::cout << "1. Son of a Star\n";
 	std::cout << "2. Imperial Eagle\n";
 	std::cout << "3. Price of a Mile\n";
@@ -32,7 +34,7 @@ int main()
 	std::cout << "2\n";
 	std::cout << "1\n";
 	std::cout << "0\n";
-	std::cout << "School is cool\n"
+	//School is cool
 
 
 
