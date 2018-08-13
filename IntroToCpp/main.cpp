@@ -32,6 +32,8 @@ int main()
 	std::cout << "2\n";
 	std::cout << "1\n";
 	std::cout << "0\n";
+	std::cout << "School is cool\n"
+
 
 
 
